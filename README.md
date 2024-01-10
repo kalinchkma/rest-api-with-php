@@ -4,7 +4,7 @@
 
 REST API without using frameworks such as Symfony or Laravel.
 
-- This project run through `XAMPP`
+- This project runs through `XAMPP`
 
 - API calls can be tested with Postman.
 
@@ -14,4 +14,4 @@ REST API without using frameworks such as Symfony or Laravel.
 
 - 2 controllers: read all posts and read all categories.
 
--Authentication with client login: username and password in the GET request.
+- Authentication with client login: username and password in the GET request.
