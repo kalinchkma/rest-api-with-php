@@ -1,9 +1,12 @@
-# REST-API---Raw-PHP
-I will make full CRUD API system.
+<!-- @format -->
+
+# REST API with Raw PHP
 
 REST API without using frameworks such as Symfony or Laravel.
 
-- API calls have been tested with Postman.
+- This project run through `XAMPP`
+
+- API calls can be tested with Postman.
 
 - CRUD for both Posts and Categories.
 
@@ -12,4 +15,3 @@ REST API without using frameworks such as Symfony or Laravel.
 - 2 controllers: read all posts and read all categories.
 
 -Authentication with client login: username and password in the GET request.
-
